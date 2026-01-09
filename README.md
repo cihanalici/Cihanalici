@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Cihan</h1>
 
-- 🖥️ I've been coding in Javascript,React and Nodejs primarily for over 4 years
+- 🖥️ I've been coding in Javascript,React and Nodejs primarily for over 5 years
 
-- 🌱 I’m currently learning Golang
+- 🌱 I’m currently learning Android Development via React Native
 
 - 📫 How to reach me **cihanalicii7@gmail.com**
 
